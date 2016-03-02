@@ -1,0 +1,22 @@
+{
+  "name": "serialperipheral",
+  "version": "0.0.1",
+  "description": "Serial based peripheral manager for BananaPI NAS environmental handler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fonorobert/serialperipheral.git"
+  },
+  "author": "fonorobert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fonorobert/serialperipheral/issues"
+  },
+  "homepage": "https://github.com/fonorobert/serialperipheral#readme",
+  "dependencies": {
+    "serialport": "^2.0.6"
+  }
+}
