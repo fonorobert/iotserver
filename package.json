@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fonorobert/serialperipheral#readme",
   "dependencies": {
+    "express": "^4.13.4",
     "serialport": "^2.0.6"
   }
 }
